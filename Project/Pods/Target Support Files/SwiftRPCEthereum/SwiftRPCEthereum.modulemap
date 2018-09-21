@@ -1,0 +1,6 @@
+framework module SwiftRPCEthereum {
+  umbrella header "SwiftRPCEthereum-umbrella.h"
+
+  export *
+  module * { export * }
+}

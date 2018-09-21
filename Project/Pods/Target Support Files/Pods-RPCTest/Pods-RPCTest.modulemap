@@ -1,0 +1,6 @@
+framework module Pods_RPCTest {
+  umbrella header "Pods-RPCTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

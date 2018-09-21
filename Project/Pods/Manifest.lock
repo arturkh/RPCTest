@@ -1,0 +1,23 @@
+PODS:
+  - Result (4.0.0)
+  - SwiftRPCEthereum (1.0.1):
+    - Result (= 4.0.0)
+
+DEPENDENCIES:
+  - SwiftRPCEthereum (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Result
+
+EXTERNAL SOURCES:
+  SwiftRPCEthereum:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Result: 7645bb3f50c2ce726dd0ff2fa7b6f42bbe6c3713
+  SwiftRPCEthereum: 8e96547fefd42020a3f186cd6d708f7875985dde
+
+PODFILE CHECKSUM: 4900adc51eac49310c753a89e8fc9fe1b2051cf7
+
+COCOAPODS: 1.5.3
